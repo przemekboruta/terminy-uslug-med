@@ -1,0 +1,6 @@
+requests
+pandas
+geocoder
+numpy
+geopy
+pprint
