@@ -5,7 +5,6 @@ import geocoder
 import numpy as np
 import geopy.distance
 from pprint import pprint
-#from geopy import distance
 from dicts import *
 import os
 
